@@ -4,3 +4,4 @@ cambiar color fondo web
 modificacion estilo fuente
 corregir centrado botones
 correcion tabla bd
+modificar deploy
