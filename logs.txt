@@ -2,3 +2,4 @@ hacer pantalla de login
 modificacion cabecera
 cambiar color fondo web
 modificacion estilo fuente
+corregir centrado botones
