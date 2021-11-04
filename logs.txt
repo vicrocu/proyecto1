@@ -1,3 +1,4 @@
-feat(#1): hacer pantalla de login
-feat(#2): modificacion cabecera
-style(#10): cambiar color fondo web
+hacer pantalla de login
+modificacion cabecera
+cambiar color fondo web
+modificacion estilo fuente
